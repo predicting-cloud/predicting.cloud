@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /lab.html
+Disallow: /privacy.html
+
+Sitemap: https://predicting.cloud/sitemap.xml
